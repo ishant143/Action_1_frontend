@@ -2,7 +2,7 @@ import React from "react";
 import NavBar from "./NavBar";
 
 
-function Home(){
+export default function Home(){
     return (
         <>
         <NavBar />
